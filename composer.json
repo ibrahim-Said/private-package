@@ -25,5 +25,12 @@
             "Said\\Translatable\\TranslatableServiceProvider"
           ]
         }
-      }
+      },
+    "repositories": {
+        "packagist.org": false,
+        "private-packagist": {
+            "type": "composer",
+            "url": "https://repo.packagist.com/ibrahim-said/"
+        }
+    }
 }
